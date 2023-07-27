@@ -1,1 +1,3 @@
 # PolylineApproximation
+
+[Documentation](Polyline.pdf)
