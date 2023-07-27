@@ -1,0 +1,5 @@
+add_subdirectory(compression)
+add_subdirectory(visualizer)
+add_subdirectory(test_generation)
+add_subdirectory(utils)
+add_subdirectory(error_measurement)
